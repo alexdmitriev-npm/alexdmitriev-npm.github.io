@@ -37,6 +37,82 @@
     </item>
     
     <item>
+      <title>Моя неделя с 12.10 по 19.10</title>
+      <link>https://example.com/post/post2/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post2/</guid>
+      <description>&lt;p&gt;На этой я ходил на пары и занимался аналитикой рынка недвижимости&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Язык разметки Markdown</title>
+      <link>https://example.com/publication/publ2/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/publ2/</guid>
+      <description>&lt;h1 id=&#34;язык-разметки-markdown&#34;&gt;Язык разметки Markdown&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — это легковесный язык разметки, разработанный для форматирования текста, который можно легко преобразовать в HTML. Его создал Джон Грубер в 2004 году с целью сделать процесс разметки текста максимально простым и читабельным в исходном виде.&lt;/p&gt;
+&lt;h2 id=&#34;основные-особенности-markdown&#34;&gt;Основные особенности Markdown&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Простота синтаксиса&lt;/strong&gt; — для разметки текста используются минимальные символы, такие как &lt;code&gt;#&lt;/code&gt;, &lt;code&gt;*&lt;/code&gt;, и &lt;code&gt;[ ]&lt;/code&gt;. Это делает текст читабельным даже без рендеринга.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Универсальность&lt;/strong&gt; — Markdown можно использовать для создания блогов, документации, заметок и других текстов.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Широкая поддержка&lt;/strong&gt; — поддерживается множеством систем управления контентом (CMS), платформ для блогов и инструментов для разработчиков, таких как GitHub, Jekyll, GitLab и другие.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;пример-синтаксиса-markdown&#34;&gt;Пример синтаксиса Markdown&lt;/h2&gt;
+&lt;h3 id=&#34;заголовки&#34;&gt;Заголовки&lt;/h3&gt;
+&lt;p&gt;Заголовки создаются с помощью символа &lt;code&gt;#&lt;/code&gt;. Чем больше &lt;code&gt;#&lt;/code&gt;, тем ниже уровень заголовка:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;# Заголовок 1 уровня
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gu&#34;&gt;## Заголовок 2 уровня
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;### Заголовок 3 уровня
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;списки&#34;&gt;Списки&lt;/h3&gt;
+&lt;p&gt;Нумерованный список:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; Элемент первый
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;2.&lt;/span&gt; Элемент второй
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;3.&lt;/span&gt; Элемент третий
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Маркированный список:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Элемент первый
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Элемент второй
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Элемент третий
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;форматирование-текста&#34;&gt;Форматирование текста&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Жирный текст&lt;/strong&gt;: обрамляется двойными звёздочками &lt;code&gt;**текст**&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Курсив&lt;/em&gt;: обрамляется одиночными звёздочками или нижними подчёркиваниями &lt;code&gt;_текст_&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Моноширинный текст&lt;/code&gt;: обрамляется обратными апострофами &lt;code&gt;`текст`&lt;/code&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;ссылки&#34;&gt;Ссылки&lt;/h3&gt;
+&lt;p&gt;Ссылки в Markdown создаются так:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[&lt;span class=&#34;nt&#34;&gt;Текст ссылки&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;https://example.com&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;изображения&#34;&gt;Изображения&lt;/h3&gt;
+&lt;p&gt;Изображения вставляются с использованием похожего синтаксиса на ссылки, но с добавлением символа ! перед:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Alt-текст&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;https://example.com/image.jpg&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;цитаты&#34;&gt;Цитаты&lt;/h3&gt;
+&lt;p&gt;Для создания цитат используется символ &amp;gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;ge&#34;&gt;Это цитата в Markdown.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;таблицы&#34;&gt;Таблицы&lt;/h3&gt;
+&lt;p&gt;Для создания таблиц можно использовать вертикальные черты | и дефисы -:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Заголовок 1 | Заголовок 2 |
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;|-------------|-------------|
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Строка 1    | Текст 1     |
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Строка 2    | Текст 2     |
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;преимущества-markdown&#34;&gt;Преимущества Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Легко учить&lt;/strong&gt; — синтаксис настолько прост, что его можно быстро освоить за несколько минут.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Минимальные требования&lt;/strong&gt; — Markdown не требует сложных инструментов, достаточно обычного текстового редактора.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Конвертируемость&lt;/strong&gt; — Markdown легко преобразуется в HTML, PDF и другие форматы.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Кросс-платформенность&lt;/strong&gt; — Markdown поддерживается на различных платформах и приложениях.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;где-используется-markdown&#34;&gt;Где используется Markdown?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Блоги&lt;/strong&gt; — многие платформы, такие как Medium, поддерживают Markdown для создания статей.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt; — Markdown используется для написания README.md файлов и документации к проектам.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Общие заметки&lt;/strong&gt; — отличное решение для создания и ведения личных записей и заметок.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Презентации и сайты&lt;/strong&gt; — с помощью конвертеров Markdown можно создавать презентации и статические сайты.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Markdown — это простой и эффективный способ разметки текста, который позволяет легко создавать структурированные документы. Благодаря интуитивному синтаксису и широкому распространению, Markdown стал стандартом для многих разработчиков, авторов и блогеров. Его гибкость и поддержка различными платформами делают его незаменимым инструментом для создания контента.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Моя неделя с 30.09 по 5.10</title>
       <link>https://example.com/post/post1/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>

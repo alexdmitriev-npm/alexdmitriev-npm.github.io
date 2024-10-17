@@ -11,19 +11,35 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/academic/</loc>
-    <lastmod>2024-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2024-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/markdown/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/myweek/</loc>
-    <lastmod>2024-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2024-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/post2/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/publ2/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/post1/</loc>
@@ -31,10 +47,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/git/</loc>
-    <lastmod>2024-10-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/</loc>
     <lastmod>2024-10-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
