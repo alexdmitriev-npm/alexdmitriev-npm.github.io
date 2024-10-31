@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Моя неделя с 28.10 по 03.11</title>
+      <link>https://example.com/post/post3/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post3/</guid>
+      <description>&lt;p&gt;На этой я ходил на пары и занимался аналитикой рынка недвижимости&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Моя неделя с 30.09 по 5.10</title>
       <link>https://example.com/post/post1/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
